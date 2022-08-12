@@ -2,6 +2,7 @@
 Console for roblox VSB!
 This console is rather... barebones. 
 It has:
+
   A custom output gui that can print stuff
   The ability to run lua code via a command
   
